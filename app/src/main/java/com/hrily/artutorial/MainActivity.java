@@ -33,6 +33,10 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
+
+/**
+ * Edited by victorlopes on 4/5/19.
+ */
 public class MainActivity extends AppCompatActivity implements SurfaceHolder.Callback, OnLocationChangedListener, OnAzimuthChangedListener, View.OnClickListener {
 
     private static final int MY_PERMISSIONS_REQUEST_CODE = 123;
