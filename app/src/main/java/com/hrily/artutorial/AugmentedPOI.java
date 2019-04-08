@@ -1,7 +1,9 @@
 package com.hrily.artutorial;
 
+
 /**
  * Created by krzysztofjackowski on 24/09/15.
+ * Edited by victorlopes on 4/5/19.
  */
 public class AugmentedPOI {
     private int mId;
